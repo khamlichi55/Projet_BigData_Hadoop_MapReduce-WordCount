@@ -101,6 +101,7 @@ L’objectif est de démontrer la configuration d’un cluster Hadoop dans des c
 ## Programme Java MapReduce : WordCount
 <img src="https://github.com/user-attachments/assets/1d5f454c-c1d2-4863-b642-7fffc12226b1" alt="Capture finale" width="600"/>
 ---
+
 ## Auteur
 
 Projet développé par - **Idrissi Khamlichi Abdelhadi** - Ingenieur Informatique et Reseaux
